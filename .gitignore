@@ -1,0 +1,17 @@
+# Python / ML
+__pycache__/
+*.pyc
+*.pkl
+*.joblib
+*.h5
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+# Datasets
+*.csv
+*.xlsx
+*.zip
+data/
+dataset/
